@@ -4,9 +4,9 @@
 ![Neon](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif)
 
 <h1>⚡ Hey, I'm <span style="color:#00eaff;">Hamza Tariq</span></h1>
-<h3>AI Engineer | Computer Vision | Mobile App Developer</h3>
+<h3>AI Engineer • Computer Vision • Mobile App Developer</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Computer+Vision+Specialist;Mobile+App+Developer+%7C+React+Native%2FFlutter;Deep+Learning+%7C+Real-Time+AI+%7C+Systems+Builder;Synthwave+Tech+Vibes+%F0%9F%8C%8E" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Computer+Vision+Specialist;Mobile+App+Developer+%7C+React+Native%2FFlutter;Deep+Learning+%7C+Real-Time+AI+%7C+Systems+Builder;Retro+Tech+Vibes+%F0%9F%9A%80" alt="Typing SVG"/>
 
 </div>
 
@@ -18,35 +18,34 @@
 
 ---
 
-## 🎛️ **Tech Stack & Tools**
+## 🎛️ **Tech Stack & Skills**
+
 ### 🤖 **AI / Computer Vision / Deep Learning**
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
 <br/>
-<img src="https://skillicons.dev/icons?i=github,git,anaconda,opencv" />
-<br/>
-<b>YOLOv8 • TrackNet • DeepLabCut • ONNX • TFLite • CUDA • cuDNN • Open3D • MediaPipe • Supervision • NumPy • Pandas</b>
+<b>Open3D • YOLOv8 • TrackNet • DeepLabCut • Supervision • MediaPipe • ONNX • TFLite • CUDA • cuDNN • NumPy • Pandas • SciPy • Matplotlib</b>
 </p>
 
 ---
 
-### 📱 **Mobile, Frontend & Full Stack**
+### 📱 **Mobile / Web / Full-Stack**
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,flutter,kotlin,nextjs,nodejs,ts,js" />
 <br/>
 <img src="https://skillicons.dev/icons?i=firebase,supabase,mongodb" />
 <br/>
-<b>REST APIs • GraphQL • WebSockets • Jetpack Compose</b>
+<b>Jetpack Compose • REST APIs • GraphQL • WebSockets</b>
 </p>
 
 ---
 
-### 🛠 **DevOps & Cloud**
+### 🧰 **Tools & Development Environment**
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,aws,gcp,linux,githubactions" />
+<img src="https://skillicons.dev/icons?i=vscode,idea,figma,postman,linux,github,git" />
+</br>
+<b>Antigravity • Colab Pro+ • Jupyter • NotebookML • MMDeploy • RoboFlow • Kaggle • Blender • After Effects</b>
 </p>
-
----
 
 <p align="center">
   <img src="https://media.giphy.com/media/4rZA5D22301iA/giphy.gif" width="300"/>
@@ -63,10 +62,10 @@
 ---
 
 ## 🪩 **About Me**
-🔥 AI Engineer passionate about **Real-Time Computer Vision + Deep Learning Systems**  
-📱 Building smart mobile experiences powered by AI  
-🚀 Focused on **sports AI, biomechanics, and real-time analytics**  
-💡 Always experimenting & building **production-level AI**  
+🔥 Passionate about **real-time AI, computer vision, biomechanics & analytics**  
+💡 Building **intelligent mobile systems using deep learning**  
+🚀 Focused on delivering **production-grade AI experiences**  
+🤝 Open for collaborations & innovative ideas  
 
 ---
 
@@ -85,7 +84,7 @@
 ---
 
 ## ⭐ **Support**
-<p align="center">If you like my work, drop a ⭐ and follow — every star helps 🌌</p>
+<p align="center">If you like my work, consider leaving a ⭐ and following — it really helps 🚀</p>
 
 <p align="center">
 <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="250"/>
