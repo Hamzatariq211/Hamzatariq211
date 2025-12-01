@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-![Neon](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif)
+![Neon]([https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXE5NHhzZjFmZjdnMGV4ZWczeGZzZTVwMm5raDZiNG1nZGc2cnNxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif))
 
 <h1>⚡ Hey, I'm <span style="color:#00eaff;">Hamza Tariq</span></h1>
 <h3>AI Engineer • Computer Vision • Mobile App Developer</h3>
@@ -45,10 +45,6 @@
 <img src="https://skillicons.dev/icons?i=vscode,idea,figma,postman,linux,github,git" />
 </br>
 <b>Antigravity • Colab Pro+ • Jupyter • NotebookML • MMDeploy • RoboFlow • Kaggle • Blender • After Effects</b>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/4rZA5D22301iA/giphy.gif" width="300"/>
 </p>
 
 ---
