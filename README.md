@@ -11,15 +11,11 @@
 <h1>⚡ Hey, I'm <span style="color:#00eaff;">Hamza Tariq</span></h1>
 <h3>AI Engineer • Computer Vision • Mobile App Developer</h3>
 
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Computer+Vision+Specialist;Mobile+App+Developer+%7C+React+Native%2FFlutter;Deep+Learning+%7C+Real-Time+AI+%7C+Systems+Builder;Retro+Tech+Vibes+%F0%9F%9A%80" alt="Typing SVG"/>
 
 </div>
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="550"/>
-</p>
 
 ---
 
