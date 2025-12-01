@@ -1,7 +1,12 @@
 <!-- HEADER -->
 <div align="center">
 
-![Neon]([https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXE5NHhzZjFmZjdnMGV4ZWczeGZzZTVwMm5raDZiNG1nZGc2cnNxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif))
+<!-- TOP RETRO GIF -->
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXE5NHhzZjFmZjdnMGV4ZWczeGZzZTVwMm5raDZiNG1nZGc2cnNxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" width="900"/>
+
+<br/>
+
+![Neon](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif)
 
 <h1>⚡ Hey, I'm <span style="color:#00eaff;">Hamza Tariq</span></h1>
 <h3>AI Engineer • Computer Vision • Mobile App Developer</h3>
