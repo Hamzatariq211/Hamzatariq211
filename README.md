@@ -55,7 +55,7 @@
 ---
 
 ## 🪩 **About Me**
-🔥 Passionate about **real-time AI, computer vision, biomechanics & analytics**  
+🔥 Passionate about **real-time AI, computer vision, building softwares and applications that make life better**  
 💡 Building **intelligent mobile systems using deep learning**  
 🚀 Focused on delivering **production-grade AI experiences**  
 🤝 Open for collaborations & innovative ideas  
